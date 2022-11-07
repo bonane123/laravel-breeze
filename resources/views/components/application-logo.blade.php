@@ -1,0 +1,1 @@
+<img src="{{ asset('images/coffee.png') }}" alt="coffe logo" width="100px">
